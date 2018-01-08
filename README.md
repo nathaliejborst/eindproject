@@ -1,3 +1,3 @@
 # eindproject
 
-+![alt text](https://github.com/nathaliejborst/eindproject/doc/proposal eindproject.jpg)
++![alt text](https://github.com/nathaliejborst/ eindproject/doc/proposal eindproject.jpg)
