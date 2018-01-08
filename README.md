@@ -1,3 +1,3 @@
 # eindproject
 
-![Alt text](eindproject/doc/proposaleindproject.png?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/nathaliejborst/eindproject/master/doc/proposaleindproject.png)
